@@ -5,3 +5,4 @@
 * [xFreeRDP](xfreerdp.md)
 * [MongoDB](mongodb.md)
 * [rsync](rsync.md)
+* [MySQL](mysql.md)
